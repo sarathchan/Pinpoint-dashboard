@@ -1,0 +1,21 @@
+.Login{
+   
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 9%;
+  
+}
+
+
+.Login-Password{
+    margin-top: 10px;
+}
+.Login-Username{
+    margin-top: 10px;
+}
+.Login-button{
+    margin-top: 10px;
+}

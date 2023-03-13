@@ -1,0 +1,8 @@
+.Dashboard-Line{
+    max-width: 800px;
+    min-width: 800px;
+    display: inline-block;
+}
+.Dashboard-Line p {
+    display: flex;
+}
