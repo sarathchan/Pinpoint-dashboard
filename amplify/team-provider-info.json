@@ -1,0 +1,51 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifydashboard-dev-132059-authRole",
+      "UnauthRoleArn": "arn:aws:iam::370687957258:role/amplify-amplifydashboard-dev-132059-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::370687957258:role/amplify-amplifydashboard-dev-132059-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifydashboard-dev-132059-deployment",
+      "UnauthRoleName": "amplify-amplifydashboard-dev-132059-unauthRole",
+      "StackName": "amplify-amplifydashboard-dev-132059",
+      "StackId": "arn:aws:cloudformation:us-east-1:370687957258:stack/amplify-amplifydashboard-dev-132059/ce347ea0-c173-11ed-93c8-1216fa73ee63",
+      "AmplifyAppId": "d35p70vbyc8dd3"
+    },
+    "categories": {
+      "auth": {
+        "amplifydashboard": {}
+      }
+    }
+  },
+  "devone": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifydashboard-devone-144321-authRole",
+      "UnauthRoleArn": "arn:aws:iam::370687957258:role/amplify-amplifydashboard-devone-144321-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::370687957258:role/amplify-amplifydashboard-devone-144321-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplifydashboard-devone-144321-deployment",
+      "UnauthRoleName": "amplify-amplifydashboard-devone-144321-unauthRole",
+      "StackName": "amplify-amplifydashboard-devone-144321",
+      "StackId": "arn:aws:cloudformation:us-east-1:370687957258:stack/amplify-amplifydashboard-devone-144321/4f68a9a0-c17f-11ed-8e38-0a4bd1945de5",
+      "AmplifyAppId": "d35p70vbyc8dd3",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-amplifydashboard-devone-144321-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "amplifydashboard": {}
+      },
+      "function": {
+        "amplifydashboard89b4e93b": {
+          "deploymentBucketName": "amplify-amplifydashboard-devone-144321-deployment",
+          "s3Key": "amplify-builds/amplifydashboard89b4e93b-473870662b5844564155-build.zip"
+        }
+      },
+      "analytics": {
+        "amplifydashboard": {}
+      },
+      "api": {
+        "api62087d45": {}
+      }
+    }
+  }
+}
